@@ -5,3 +5,5 @@ django-allauth
 django-htmx
 six
 uvicorn
+daphne
+asgiref
