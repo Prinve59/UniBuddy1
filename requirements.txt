@@ -4,4 +4,4 @@ django-cleanup
 django-allauth
 django-htmx
 six
-daphne
+uvicorn
